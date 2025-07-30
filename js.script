@@ -1,0 +1,4 @@
+// script.js
+document.addEventListener('DOMContentLoaded', function () {
+  alert("Bem-vindo ao site sobre Cyberbullying! Navegue pelas seções para se informar e conscientizar.");
+});
